@@ -1,0 +1,1 @@
+{"version":3,"file":"my-lib.mjs","sources":["../src/index.ts"],"sourcesContent":["export function sayHi() {\n    console.log(\"hi\");\n}\n"],"names":[],"mappings":"AAAO,SAAS,KAAQ,GAAA;AACpB,EAAA,OAAA,CAAQ,IAAI,IAAI,CAAA,CAAA;AACpB;;;;"}
